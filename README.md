@@ -6,3 +6,4 @@
 * Assignment 2 - Image classification and Masked Language Modeling using Perceiver and Perceiver IO
 * Assignment 3 - Fine-tuning pretrained language models with an integration with Gradio for inference 
 * Assignment 4 - Text classification, Image classification and Tabular data's target prediction using DeepAutoVIML
+* Assignment 5 - Meta learning and multi task learning
