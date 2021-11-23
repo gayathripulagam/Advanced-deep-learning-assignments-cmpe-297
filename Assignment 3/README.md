@@ -12,3 +12,6 @@
 
 **4. Named Entity Recognition using BERT**
 ![image](https://user-images.githubusercontent.com/61125007/139489247-2fc0397a-a4ed-4405-8723-6d7220b29c7e.png)
+
+**5. Question And Answering using distilBERT**
+![image](https://user-images.githubusercontent.com/61125007/143073581-b57f93af-5e58-4cfa-9595-4f142e2d5b9b.png)
