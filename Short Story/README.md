@@ -5,4 +5,4 @@ This assignment is a summary of [this](https://reader.elsevier.com/reader/sd/pii
 
 Medium article link - https://medium.com/@gayathri.pulagam/text-generation-models-in-deep-learning-b618175a0520
 
-Presentation video - 
+Presentation video - https://drive.google.com/file/d/16gYWZGHiZodGCZTyvSjCvlPQix3MELr5/view?usp=sharing
